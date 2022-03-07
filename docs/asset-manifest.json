@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/claim/static/css/main.090281d3.chunk.css",
-    "main.js": "/claim/static/js/main.7b83727d.chunk.js",
-    "main.js.map": "/claim/static/js/main.7b83727d.chunk.js.map",
-    "runtime-main.js": "/claim/static/js/runtime-main.29f056eb.js",
-    "runtime-main.js.map": "/claim/static/js/runtime-main.29f056eb.js.map",
-    "static/js/2.1a705d2d.chunk.js": "/claim/static/js/2.1a705d2d.chunk.js",
-    "static/js/2.1a705d2d.chunk.js.map": "/claim/static/js/2.1a705d2d.chunk.js.map",
-    "static/js/3.35d7b968.chunk.js": "/claim/static/js/3.35d7b968.chunk.js",
-    "static/js/3.35d7b968.chunk.js.map": "/claim/static/js/3.35d7b968.chunk.js.map",
-    "index.html": "/claim/index.html",
-    "static/css/main.090281d3.chunk.css.map": "/claim/static/css/main.090281d3.chunk.css.map",
-    "static/js/2.1a705d2d.chunk.js.LICENSE.txt": "/claim/static/js/2.1a705d2d.chunk.js.LICENSE.txt",
-    "static/media/LABS.1b211f96.png": "/claim/static/media/LABS.1b211f96.png",
-    "static/media/app.scss": "/claim/static/media/bg.ac0666af.jpg",
-    "static/media/potluck-labs.02e22f1f.png": "/claim/static/media/potluck-labs.02e22f1f.png"
+    "main.css": "/static/css/main.8d0d3d74.chunk.css",
+    "main.js": "/static/js/main.7b83727d.chunk.js",
+    "main.js.map": "/static/js/main.7b83727d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.06948f8a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.06948f8a.js.map",
+    "static/js/2.1a705d2d.chunk.js": "/static/js/2.1a705d2d.chunk.js",
+    "static/js/2.1a705d2d.chunk.js.map": "/static/js/2.1a705d2d.chunk.js.map",
+    "static/js/3.35d7b968.chunk.js": "/static/js/3.35d7b968.chunk.js",
+    "static/js/3.35d7b968.chunk.js.map": "/static/js/3.35d7b968.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8d0d3d74.chunk.css.map": "/static/css/main.8d0d3d74.chunk.css.map",
+    "static/js/2.1a705d2d.chunk.js.LICENSE.txt": "/static/js/2.1a705d2d.chunk.js.LICENSE.txt",
+    "static/media/LABS.1b211f96.png": "/static/media/LABS.1b211f96.png",
+    "static/media/app.scss": "/static/media/bg.ac0666af.jpg",
+    "static/media/potluck-labs.02e22f1f.png": "/static/media/potluck-labs.02e22f1f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.29f056eb.js",
+    "static/js/runtime-main.06948f8a.js",
     "static/js/2.1a705d2d.chunk.js",
-    "static/css/main.090281d3.chunk.css",
+    "static/css/main.8d0d3d74.chunk.css",
     "static/js/main.7b83727d.chunk.js"
   ]
 }
